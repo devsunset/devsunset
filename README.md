@@ -1,15 +1,6 @@
-### Hi there 👋
-
-## Hello World
-
-I am devsunset, currently, working as a freelancer developer.
-
-I like to learn new technologies.
-
-My wish is to live as a developer until the day I die.
-
+### Hello World 👋 I am devsunset, currently, working as a freelancer developer.
+I like to learn new technologies. My wish is to live as a developer until the day I die.
 [![Gmail Badge](https://img.shields.io/badge/-devsunset@gmail.com-BB001B?style=flat&logo=Gmail&logoColor=white&link=mailto:devsunset@gmail.com)](mailto:devsunset@gmail.com)
-
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=devsunset&count_private=true&show_icons=true&include_all_commits=true&custom_title=devsunset%20github%20stats&hide_border=true&line_height=28)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsunset&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10)
