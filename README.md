@@ -1,4 +1,4 @@
-### Hello World 👋 I am devsunset, currently, working as a freelancer developer.
+### Hello World 👋 I am devsunset, currently working as a freelancer developer.
 I like to learn new technologies. My wish is to live as a developer until the day I die.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=devsunset&count_private=true&show_icons=true&include_all_commits=true&custom_title=devsunset%20github%20stats&hide_border=true&line_height=28)
