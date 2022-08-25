@@ -2,6 +2,8 @@
 I like to learn new technologies. 
 Simple is best.
 
+Talk is cheap. Show me the code! - Linus Torvalds
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=devsunset&count_private=true&show_icons=true&include_all_commits=true&custom_title=devsunset%20github%20stats&hide_border=true&line_height=28)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsunset&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10)
 
