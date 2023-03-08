@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 -->
 
 ## Toy Project List
-[rockfish - rockfish - Easy Simple Mobile Middleware](https://github.com/devsunset/rockfish)
+[rockfish - Easy Simple Mobile Middleware](https://github.com/devsunset/rockfish)
