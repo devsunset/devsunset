@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 [schedule-memo - schedule manager (nodejs - koa - react - mongodb)](https://github.com/devsunset/schedule-memo)  
 [noSmokingDiary - no smoking diary (python - fastApi - sqlalchemy - react)](https://github.com/devsunset/noSmokingDiary)  
 [camping-reservation - camping-reservation (python crawling)](https://github.com/devsunset/camping-reservation)  
-[apiGoEchoServer - Tesla Charge Info (golang, echo, postgress](https://github.com/devsunset/apiGoEchoServer)  
+[apiGoEchoServer - Tesla Charge Info (golang, echo, postgress)](https://github.com/devsunset/apiGoEchoServer)  
 [stock - stock info (python crawling - naver stock)](https://github.com/devsunset/stock)  
 [vcts - virtual coin trade system (python - upbit)](https://github.com/devsunset/vcts)  
 [vcts_data - virtual coin trade system data (python - upbit)](https://github.com/devsunset/vcts_data)  
