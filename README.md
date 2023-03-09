@@ -43,26 +43,26 @@ Here are some ideas to get you started:
 -->
 
 ## Toy Project List
-[rockfish - Easy Simple Mobile Middleware Solution (nodejs - axaj -  monogdb - java - spring - mariadb - apm)](https://github.com/devsunset/rockfish)  
-[tgm - Thumb Grid Manager linux accout,file manager (golang - golila)](https://github.com/devsunset/tgm)  
+[rockfish](https://github.com/devsunset/rockfish)  
+[tgm ](https://github.com/devsunset/tgm)  
 
-[gotogether-backend - backend gotogether (springboot - rest - jpa - security - jwt - mariadb)](https://github.com/devsunset/gotogether-backend)  
-[gotogether-frontend-vue - frontend gotogether (vue)](https://github.com/devsunset/gotogether-frontend-vue)  
-[gotogether-frontend-react - frontend gotogether (react)](https://github.com/devsunset/gotogether-frontend-react)  
-[GoTogether_app - GoTogether Mobile (flutter)](https://github.com/devsunset/GoTogether_app)  
-[schedule-memo - schedule manager (nodejs - koa - react - mongodb)](https://github.com/devsunset/schedule-memo)  
-[noSmokingDiary - no smoking diary (python - fastApi - sqlalchemy - react)](https://github.com/devsunset/noSmokingDiary)  
-[camping-reservation - camping-reservation (python crawling)](https://github.com/devsunset/camping-reservation)  
-[apiGoEchoServer - Tesla Charge Info (golang, echo, postgress)](https://github.com/devsunset/apiGoEchoServer)  
-[stock - stock info (python crawling - naver stock)](https://github.com/devsunset/stock)  
-[vcts - virtual coin trade system (python - upbit)](https://github.com/devsunset/vcts)  
-[vcts_data - virtual coin trade system data (python - upbit)](https://github.com/devsunset/vcts_data)  
+[gotogether-backend](https://github.com/devsunset/gotogether-backend)  
+[gotogether-frontend-vue](https://github.com/devsunset/gotogether-frontend-vue)  
+[gotogether-frontend-react](https://github.com/devsunset/gotogether-frontend-react)  
+[GoTogether_app](https://github.com/devsunset/GoTogether_app)  
+[schedule-memo](https://github.com/devsunset/schedule-memo)  
+[noSmokingDiary](https://github.com/devsunset/noSmokingDiary)  
+[camping-reservation](https://github.com/devsunset/camping-reservation)  
+[apiGoEchoServer](https://github.com/devsunset/apiGoEchoServer)  
+[stock](https://github.com/devsunset/stock)  
+[vcts](https://github.com/devsunset/vcts)  
+[vcts_data ](https://github.com/devsunset/vcts_data)  
 
-[MyTreasure - Android Native App](https://github.com/devsunset/MyTreasure)  
-[Signal - Random Chat - Signal Android Native App](https://github.com/devsunset/SimpleRandomChat)  
-[srcServer - Random Chat - Signal API Server (firebase)](https://github.com/devsunset/srcServer)  
-[AppPermissionsScan - Android Native App](https://github.com/devsunset/AppPermissionsScan)    
-[YesOrNo - Android Native App](https://github.com/devsunset/YesOrNo)  
+[MyTreasure](https://github.com/devsunset/MyTreasure)  
+[Signal](https://github.com/devsunset/SimpleRandomChat)  
+[srcServer](https://github.com/devsunset/srcServer)  
+[AppPermissionsScan](https://github.com/devsunset/AppPermissionsScan)    
+[YesOrNo](https://github.com/devsunset/YesOrNo)  
 
 
 
