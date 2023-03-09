@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-f34f29?style=flat&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-f06529?style=flat&logo=html5&logoColor=white)
 
--->
+
 
 ## Toy Project List
 [rockfish](https://github.com/devsunset/rockfish)  
@@ -66,5 +66,5 @@ Here are some ideas to get you started:
 [Signal](https://github.com/devsunset/SimpleRandomChat)  
 [srcServer](https://github.com/devsunset/srcServer)  
 
-
+-->
 
