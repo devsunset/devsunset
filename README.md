@@ -12,10 +12,8 @@ Talk is cheap. Show me the code!
 ![](https://hit.yhype.me/github/profile?user_id=)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevsunset%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsunset&hide=html,css,less,scss,cmake,jupyternotebook&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=100)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=devsunset&count_private=true&show_icons=true&include_all_commits=true&custom_title=devsunset%20github%20stats&hide_border=true&line_height=28)
-
 
 ## Toy Project List
 
@@ -49,14 +47,14 @@ Talk is cheap. Show me the code!
 <a href="https://github.com/devsunset/camping-reservation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=camping-reservation" />
 </a>
-<a href="https://github.com/devsunset/stock">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=stock" />
-</a>
 <a href="https://github.com/devsunset/vcts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=vcts" />
 </a>
 <a href="https://github.com/devsunset/vcts_data">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=vcts_data" />
+</a>
+<a href="https://github.com/devsunset/stock">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=stock" />
 </a>
 <a href="https://github.com/devsunset/MyTreasure">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=MyTreasure" />
