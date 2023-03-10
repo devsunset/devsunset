@@ -7,7 +7,7 @@ Simple is best
 Talk is cheap. Show me the code!  
  --- Linus Torvalds
  
-<!--
+
 ## What I am doing...
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-68a063?style=flat&logo=Node.js&logoColor=white)
@@ -23,7 +23,14 @@ Talk is cheap. Show me the code!
 ![Git](https://img.shields.io/badge/-Git-f34f29?style=flat&logo=git&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-f06529?style=flat&logo=html5&logoColor=white)
--->
+
+
+<p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a></p> 
+<p align="center"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a></p>
+
+
+
+
 
 ## GitHub Status
 
