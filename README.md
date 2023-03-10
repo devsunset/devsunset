@@ -1,11 +1,11 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=120&text=devsunset&fontAlign=80&fontAlignY=40&color=gradient)
- 
-I am devsunset, currently working as a freelancer developer  
+
 I like to learn new technologies   
+Currently working as a freelancer developer  
 Simple is best
 
 Talk is cheap. Show me the code!  
- --Linus Torvalds
+ --- Linus Torvalds
 
 [![Gmail Badge](https://img.shields.io/badge/-devsunset@gmail.com-BB001B?style=flat&logo=Gmail&logoColor=white&link=mailto:devsunset@gmail.com)](mailto:devsunset@gmail.com)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=devsunset.devsunset)
