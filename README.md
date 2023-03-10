@@ -10,6 +10,7 @@ Talk is cheap. Show me the code!
 
 ## What I am doing...
 
+
 <p align="center">
  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
@@ -18,6 +19,13 @@ Talk is cheap. Show me the code!
  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+</p> 
+
+<p align="center">
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
+	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
+ <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 </p> 
  
 <p align="center">
@@ -30,9 +38,15 @@ Talk is cheap. Show me the code!
 </p>
  
 <p align="center">
+ <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+ <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
  <img src="https://img.shields.io/badge/Git-f34f29?style=flat-square&logo=git&logoColor=white"/>
- <img src="https://img.shields.io/badge/Docker-384d54?style=flat-square&logo=docker&logoColor=white"/>
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+ <img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white" />
+ <img src="https://img.shields.io/badge/Docker-384d54?style=flat-square&logo=docker&logoColor=white"/> 
  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
+	<img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" />
 </p>
 
 
@@ -97,7 +111,6 @@ Talk is cheap. Show me the code!
 <a href="https://github.com/devsunset/srcServer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=srcServer" />
 </a>  
-
 
 <p/>
  
