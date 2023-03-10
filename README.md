@@ -41,9 +41,7 @@ Talk is cheap. Show me the code!
 <a href="https://github.com/devsunset/noSmokingDiary">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=noSmokingDiary" />
 </a>
-<a href="https://github.com/devsunset/schedule-memo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=schedule-memo" />
-</a>
+
 <a href="https://github.com/devsunset/camping-reservation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=camping-reservation" />
 </a>
