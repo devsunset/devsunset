@@ -1,7 +1,10 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=120&text=devsunset&fontAlign=80&fontAlignY=40&color=gradient)
 
+## About Me
+
 I like to learn new technologies   
 Currently working as a freelancer developer  
+
 Simple is best
 
 Talk is cheap. Show me the code!  
