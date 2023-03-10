@@ -56,8 +56,8 @@ Talk is cheap. Show me the code!
 
 ## GitHub Status
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsunset&hide=html,css,less,scss,cmake,jupyternotebook&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=100)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=devsunset&count_private=true&show_icons=true&include_all_commits=true&custom_title=devsunset%20github%20stats&hide_border=true&line_height=28)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsunset&hide=html,css,less,scss,cmake,jupyter+notebook,c%2B%2B,jinja,swift,ruby&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=100&theme=cobalt)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=devsunset&count_private=true&show_icons=true&include_all_commits=true&custom_title=devsunset%20github%20stats&hide_border=true&line_height=28&theme=cobalt)
 
 ## Toy Project List
 <!--
