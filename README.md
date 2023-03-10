@@ -7,7 +7,7 @@ Simple is best
 Talk is cheap. Show me the code!  
  --- Linus Torvalds
  
- 
+<!--
 ## What I am doing...
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-68a063?style=flat&logo=Node.js&logoColor=white)
@@ -23,7 +23,7 @@ Talk is cheap. Show me the code!
 ![Git](https://img.shields.io/badge/-Git-f34f29?style=flat&logo=git&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-f06529?style=flat&logo=html5&logoColor=white)
-
+-->
 
 ## GitHub Status
 
