@@ -57,10 +57,10 @@ GitHub readme stats comes with several built-in themes
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=YesOrNo&theme=dracula" />
 </a>
 <a href="https://github.com/devsunset/SimpleRandomChat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=SimpleRandomChat&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=SimpleRandomChat&theme=cobalt" />
 </a>
 <a href="https://github.com/devsunset/srcServer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=srcServer&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=srcServer&theme=cobalt" />
 </a>  
 
 <p/>
