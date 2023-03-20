@@ -9,52 +9,52 @@ GitHub readme stats comes with several built-in themes
 (e.g. dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula).
 -->
 <a href="https://github.com/devsunset/rockfish">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=rockfish&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=rockfish&theme=cobalt" />
 </a>
 <a href="https://github.com/devsunset/gotogether-backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=gotogether-backend&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=gotogether-backend&theme=cobalt" />
 </a>
 <a href="https://github.com/devsunset/gotogether-frontend-vue">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=gotogether-frontend-vue&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=gotogether-frontend-vue&theme=cobalt" />
 </a>
 <a href="https://github.com/devsunset/gotogether-frontend-react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=gotogether-frontend-react&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=gotogether-frontend-react&theme=cobalt" />
 </a>
 <a href="https://github.com/devsunset/GoTogether_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=GoTogether_app&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=GoTogether_app&theme=cobalt" />
 </a>
 <a href="https://github.com/devsunset/tgm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=tgm&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=tgm&theme=cobalt" />
 </a>
 <a href="https://github.com/devsunset/apiGoEchoServer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=apiGoEchoServer&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=apiGoEchoServer&theme=cobalt" />
 </a>
 <a href="https://github.com/devsunset/noSmokingDiary">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=noSmokingDiary&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=noSmokingDiary&theme=cobalt" />
 </a>
 <a href="https://github.com/devsunset/schedule-memo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=schedule-memo&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=schedule-memo&theme=cobalt" />
 </a>
 <a href="https://github.com/devsunset/camping-reservation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=camping-reservation&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=camping-reservation&theme=cobalt" />
 </a>
 <a href="https://github.com/devsunset/vcts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=vcts&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=vcts&theme=cobalt" />
 </a>
 <a href="https://github.com/devsunset/vcts_data">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=vcts_data&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=vcts_data&theme=cobalt" />
 </a>
 <a href="https://github.com/devsunset/stock">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=stock&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=stock&theme=cobalt" />
 </a>
 <a href="https://github.com/devsunset/MyTreasure">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=MyTreasure&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=MyTreasure&theme=cobalt" />
 </a>
 <a href="https://github.com/devsunset/AppPermissionsScan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=AppPermissionsScan&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=AppPermissionsScan&theme=cobalt" />
 </a>
 <a href="https://github.com/devsunset/YesOrNo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=YesOrNo&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=YesOrNo&theme=cobalt" />
 </a>
 <a href="https://github.com/devsunset/SimpleRandomChat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsunset&repo=SimpleRandomChat&theme=cobalt" />
